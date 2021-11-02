@@ -28,4 +28,4 @@ incorrect input will display an error message and help.
 ## Screen capture
 
 
-![Alt text](./HolidatesPics.jpg),
+![Alt text](https://github.com/Laverdure77/Holidates/blob/main/HolidatesPics.JPG?raw=true),

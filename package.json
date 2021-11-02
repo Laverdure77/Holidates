@@ -1,6 +1,6 @@
 {
   "name": "@laverdure77/holidates",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "First project / gives holiday dates for a given country and Year.",
   "main": "index.js",
  
