@@ -1,0 +1,29 @@
+{
+  "name": "@laverdure77/holidates",
+  "version": "1.0.1",
+  "description": "First project / gives holiday dates for a given country and Year.",
+  "main": "index.js",
+  "script":{
+    "holidates": "npx run ./index.js"
+  },
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laverdure77/Holidates.git"
+  },
+  "keywords": [
+    "Holidates"
+  ],
+  "author": "Meulemans Philippe",
+  "license": "ISC",
+  "homepage": "https://github.com/Laverdure77/Holidates#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "country-list": "^2.2.0",
+    "cross-fetch": "^3.1.4",
+    "node-fetch": "^3.0.0"
+  }
+}
